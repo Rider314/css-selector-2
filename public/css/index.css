@@ -8,7 +8,9 @@
     background: green;
 }
 /* 4.3 */
-
+.lesson-four-task-three>.link:visited {
+    color: yellow;
+}
 /* 4.4 */
 #sidebar>.link:link {
     color: red;
